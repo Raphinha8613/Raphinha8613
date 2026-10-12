@@ -7,6 +7,9 @@
 - ⚡ Fun fact: He is young.
 
 <!---
-Raphinha8613/Raphinha8613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Raphinha8613/Raphinha8613 is a ✨ special ✨ repository because its `README.md` (this file) appears on his GitHub profile.
+You can click the Preview link to take a look at his changes.
+--->
+
+<!--- quick warning: yes, he was here and edited this 😭
 --->
