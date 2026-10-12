@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raphinha8613
 - 👀 I’m interested in HTML, CSS, JS, Python and PHP
-- 🌱 I’m currently learning about Python
+- 🌱 I’m currently learning about Python, Bash and some other things
 - 💞️ I’m looking to collaborate on ...nothing really.
 - 📫 How to reach me: don't.
 - 😄 Pronouns: He/Him
